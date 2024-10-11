@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: cheeseburga;
+  src: url('./assets/fonts/CHEESEBURGA.ttf');
+}
+
+@font-face {
+  font-family: baronkuffner;
+  src: url('./assets/fonts/BaronKuffner.otf');
+}
+
